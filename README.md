@@ -1,7 +1,7 @@
 # flutter_application_2
 
 A new Flutter project.
-[alt text]([http://url/to/img.png](https://github.com/langtumuathufa/Flutter_LoginApp/blob/main/flutter.png))
+![alt text](https://github.com/langtumuathufa/Flutter_LoginApp/blob/main/flutter.png)
 
 ## Getting Started
 
